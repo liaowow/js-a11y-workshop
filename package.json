@@ -34,6 +34,9 @@
     "sass-loader": "^7.1.0",
     "starwars-names": "^1.6.0"
   },
+  "resolutions": {
+    "minipass": "2.7.0"
+  },
   "keywords": [
     "gatsby"
   ],
